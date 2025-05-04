@@ -8,5 +8,5 @@ A simple Flask web app that detects emotions in text using the **IBM Watson NLP 
 - Uses IBM Watson NLP API for emotion prediction.
 
 ## 📚 Credits
-Static and template files (static/script.js, templates/index.html) are sourced from IBM’s official Emotion Detection Lab.
+Static and template files (static/mywebscript.js, templates/index.html) are sourced from IBM’s official Emotion Detection Lab.
 Based on the IBM/Coursera "Emotion Detection" lab and the IBM Watson NLP API.
